@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I’m Muzammil
+
+**Student | Data Scientist | AI Enthusiast**
+
+> “Turning data into actionable insights with AI.”
+
+---
+
+## 🚀 About Me
+
+I'm a passionate student and aspiring data scientist, exploring the frontiers of artificial intelligence. My interests span from building intelligent agents and conversational AI to leveraging machine learning for real-world impact.
+
+---
+
+## 🧠 Skills
+
+- **Python** | **Machine Learning** | **AI**
+- **Conversational AI** | **Agentic AI**
+- **Java** | **SQL**
+- **LangChain** | **LangGraph**
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muzammil-b84205231)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced agentic AI architectures
+- Building robust conversational agents
+- Next-gen frameworks like LangChain & LangGraph
+
+---
+
+## 🔥 Let’s Collaborate!
+
+I’m always open to collaboration on data science, AI, and emerging tech projects. If you share similar interests, feel free to reach out!
+
+---
 
 <!--
-**muzammil-11/muzammil-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Featured Projects
+Coming soon!
 -->
